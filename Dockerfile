@@ -15,5 +15,9 @@ RUN tar -xzf /spark-3.0.2-bin-hadoop2.7.tgz && \
     mv spark-3.0.2-bin-hadoop2.7 spark && \
     echo "export PATH=$PATH:/spark/bin" >> ~/.bashrc
 
+# Create Spakr Home ENV
+
+ENV SPARK_HOME=/spark
+
 #Expose the UI Port 
-EXPOSE 4040
+EXPOSE 4040, 8081, 7080
