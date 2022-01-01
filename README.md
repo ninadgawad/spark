@@ -5,4 +5,9 @@ Apache Spark is an open-source distributed general-purpose cluster-computing fra
 # Create the Docker base file 
 Dockerfile
 
+# Run the Spark Submit on Kubernetes Cluster
+Spark-Submit
+
+## Links
+https://spark.apache.org/downloads.html
 
