@@ -16,8 +16,12 @@ val spark = SparkSession
   .builder()
   .master("local[1]")
   .appName("Spark App")
-  .config("spark.driver.cores	", "2")
+  .config("spark.driver.cores", "2")
   .getOrCreate()
+  
+val df = spark.read("data.json").json(jsonPath)
+df.show()
+
 ```
 
 
