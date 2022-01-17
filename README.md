@@ -69,6 +69,9 @@ only showing top 5 rows
 ![SparkApp](./SparkApp.png)
 
 
+## Spark Operations
+1) Transformations  e.g. orderBy() | groupBy() | join() | filter() | select() 
+2) Actions  e.g. show() | count() | take()  | collect() | save() 
 
 ## Links
 - https://github.com/apache/spark
