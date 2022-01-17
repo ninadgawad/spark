@@ -73,6 +73,12 @@ only showing top 5 rows
 1) Transformations  e.g. orderBy() | groupBy() | join() | filter() | select() 
 2) Actions  e.g. show() | count() | take()  | collect() | save() 
 
+
+### Spark DataFrameReader methods
+- spark.read.format("parquet").load("file.parquet")  or spark.read.load("file.parquet")
+- spark.read.format("csv").option("inferSchema", "true").option("header", "true").option("mode", "PERMISSIVE").load("file.csv")
+- spark.read.format("json").load("file.json")
+
 ## Links
 - https://github.com/apache/spark
 - https://spark.apache.org/downloads.html
