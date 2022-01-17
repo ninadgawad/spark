@@ -65,6 +65,9 @@ only showing top 5 rows
 ```
 
 
+## Spark App Flow 
+![SparkApp](./SparkApp.png)
+
 
 
 ## Links
