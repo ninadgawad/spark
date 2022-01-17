@@ -83,6 +83,8 @@ only showing top 5 rows
 - df.write.format("parquet").mode("overwrite").option("compression", "snappy").save("parquet")
 - df.write.format("csv").mode("overwrite").save("csvfile")
 - df.write.format("json").mode("overwrite").save("jsonfile")
+- df.write.format("avro").mode("overwrite").save("avrofile")
+- df.write.format("orc").mode("overwrite").save("orcfile")
 
 ## Links
 - https://github.com/apache/spark
