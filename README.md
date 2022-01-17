@@ -46,6 +46,12 @@ df.show()
 
 ```
 
+## Spark Shell Read a Text File 
+```
+scala> val readMeDf  = spark.read.text("../README.md")
+readMeDf.show(5, false)
+```
+
 
 ## Links
 - https://github.com/apache/spark
