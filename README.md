@@ -79,6 +79,10 @@ only showing top 5 rows
 - spark.read.format("csv").option("inferSchema", "true").option("header", "true").option("mode", "PERMISSIVE").load("file.csv")
 - spark.read.format("json").load("file.json")
 
+### Spark DataFrameWriter df.write.format("json").mode("overwrite").save(location)methods
+- df.write.format("json").mode("overwrite").save("jsonfile")
+- df.write.format("parquet").mode("overwrite").option("compression", "snappy").save("parquet")
+
 ## Links
 - https://github.com/apache/spark
 - https://spark.apache.org/downloads.html
