@@ -80,8 +80,9 @@ only showing top 5 rows
 - spark.read.format("json").load("file.json")
 
 ### Spark DataFrameWriter df.write.format("json").mode("overwrite").save(location)methods
-- df.write.format("json").mode("overwrite").save("jsonfile")
 - df.write.format("parquet").mode("overwrite").option("compression", "snappy").save("parquet")
+- df.write.format("csv").mode("overwrite").save("csvfile")
+- df.write.format("json").mode("overwrite").save("jsonfile")
 
 ## Links
 - https://github.com/apache/spark
