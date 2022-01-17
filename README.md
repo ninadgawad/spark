@@ -49,8 +49,22 @@ df.show()
 ## Spark Shell Read a Text File 
 ```
 scala> val readMeDf  = spark.read.text("../README.md")
-readMeDf.show(5, false)
+scala>readMeDf.show(5, false)
 ```
+```
++--------------------------------------------------------------------------------+
+|value                                                                           |
++--------------------------------------------------------------------------------+
+|# Apache Spark                                                                  |
+|                                                                                |
+|Spark is a unified analytics engine for large-scale data processing. It provides|
+|high-level APIs in Scala, Java, Python, and R, and an optimized engine that     |
+|supports general computation graphs for data analysis. It also supports a       |
++--------------------------------------------------------------------------------+
+only showing top 5 rows
+```
+
+
 
 
 ## Links
