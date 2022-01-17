@@ -7,8 +7,20 @@ Apache Spark is an open-source distributed general-purpose cluster-computing fra
 ### Spark Overview
 Apache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
 
-# Create the Docker base file 
+## Create the Docker base file 
 Dockerfile
+
+
+## Spark APIs
+- RDDs
+- DataFrames
+- Datasets
+
+## Popular Spark Use cases   4P's
+- Parallel processing across cluster
+- Performing adhoc queries for EDA
+- Pipelines implementations for data 
+- Processig and analyzing graph data and social networks 
 
 # Run the Spark Submit on Kubernetes Cluster
 Spark-Submit
