@@ -48,5 +48,6 @@ df.show()
 
 
 ## Links
-https://spark.apache.org/downloads.html
-http://livy.incubator.apache.org/get-started/
+- https://github.com/apache/spark
+- https://spark.apache.org/downloads.html
+- http://livy.incubator.apache.org/get-started/
