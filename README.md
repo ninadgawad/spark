@@ -10,6 +10,10 @@ Apache Spark is a unified analytics engine for large-scale data processing. It p
 ## Create the Docker base file 
 Dockerfile
 
+## Primary Users 
+- Data Scientist 
+- Data Engineers
+
 
 ## Spark APIs
 - RDDs
