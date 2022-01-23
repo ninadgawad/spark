@@ -7,6 +7,9 @@ Apache Spark is an open-source distributed general-purpose cluster-computing fra
 ### Spark Overview
 Apache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
 
+## Latest Version: 3.2.0 
+[Download](https://www.apache.org/dyn/closer.lua/spark/spark-3.2.0/spark-3.2.0-bin-hadoop3.2.tgz)
+
 ## Create the Docker base file 
 Dockerfile
 
