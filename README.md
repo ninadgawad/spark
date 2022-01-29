@@ -94,3 +94,4 @@ only showing top 5 rows
 - https://github.com/apache/spark
 - https://spark.apache.org/downloads.html
 - http://livy.incubator.apache.org/get-started/
+- https://archive.apache.org/dist/spark/
