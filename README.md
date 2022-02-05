@@ -18,6 +18,12 @@ Dockerfile
 - Data Scientist 
 - Data Engineers
 
+## Language Support
+- Scala
+- Python
+- Java
+- R
+
 
 ## Spark APIs
 - RDDs
