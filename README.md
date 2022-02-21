@@ -98,10 +98,10 @@ only showing top 5 rows
 
 
 ## Spark 3.2.1 Dependencies changes:
-[SPARK-37113]: Upgrade Parquet to 1.12.2
-[SPARK-37238]: Upgrade ORC to 1.6.12
-[SPARK-37534]: Bump dev.ludovic.netlib to 2.2.1
-[SPARK-37656]: Upgrade SBT to 1.5.7
+- [SPARK-37113]: Upgrade Parquet to 1.12.2
+- [SPARK-37238]: Upgrade ORC to 1.6.12
+- [SPARK-37534]: Bump dev.ludovic.netlib to 2.2.1
+- [SPARK-37656]: Upgrade SBT to 1.5.7
 
 
 ## Links
