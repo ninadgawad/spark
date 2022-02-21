@@ -96,8 +96,19 @@ only showing top 5 rows
 - df.write.format("avro").mode("overwrite").save("avrofile")
 - df.write.format("orc").mode("overwrite").save("orcfile")
 
+
+## Spark 3.2.1 Dependencies changes:
+[SPARK-37113]: Upgrade Parquet to 1.12.2
+[SPARK-37238]: Upgrade ORC to 1.6.12
+[SPARK-37534]: Bump dev.ludovic.netlib to 2.2.1
+[SPARK-37656]: Upgrade SBT to 1.5.7
+
+
 ## Links
 - https://github.com/apache/spark
 - https://spark.apache.org/downloads.html
 - http://livy.incubator.apache.org/get-started/
 - https://archive.apache.org/dist/spark/
+
+
+
