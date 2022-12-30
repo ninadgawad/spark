@@ -18,6 +18,8 @@ Dockerfile
 ## Primary Users 
 - Data Scientist 
 - Data Engineers
+- Software Developers
+- Data Analysts
 
 ## Language Support
 - Scala
