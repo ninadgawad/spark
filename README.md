@@ -9,7 +9,7 @@ Apache Spark is an open-source distributed general-purpose cluster-computing fra
 
 ## Latest Version: 3.3.1
 - [Download 3.3.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.3.1/spark-3.3.1-bin-hadoop3.tgz)
-- [Download 3.2.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz)
+- [Download 3.2.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.2.1/spark-3.2.3-bin-hadoop3.2.tgz)
 - [Download 3.2.0](https://archive.apache.org/dist/spark/spark-3.2.0/spark-3.2.0-bin-hadoop2.7.tgz)
 
 ## Create the Docker base file 
