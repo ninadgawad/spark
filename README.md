@@ -14,6 +14,9 @@
 - [Download 3.2.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.2.1/spark-3.2.3-bin-hadoop3.2.tgz)
 - [Download 3.2.0](https://archive.apache.org/dist/spark/spark-3.2.0/spark-3.2.0-bin-hadoop2.7.tgz)
 
+## With Hadoop 3 & Scala 2.13
+- [Download Spark 3.5.1 with Hadoop3 and Scala 2.13](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3-scala2.13.tgz)
+
 ## Create the Docker base file 
 Dockerfile
 
