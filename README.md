@@ -9,6 +9,7 @@
 
 ## Latest Version: 3.5.1
 - [Download 3.5.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3.tgz)
+- [Download 3.4.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.4.3/spark-3.4.3-bin-hadoop3.tgz)
 - [Download 3.3.2](https://www.apache.org/dyn/closer.lua/spark/spark-3.3.2/spark-3.3.2-bin-hadoop3.tgz)
 - [Download 3.3.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.3.1/spark-3.3.1-bin-hadoop3.tgz)
 - [Download 3.2.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.2.1/spark-3.2.3-bin-hadoop3.2.tgz)
