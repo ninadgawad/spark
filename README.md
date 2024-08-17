@@ -7,7 +7,8 @@
 ## Spark Overview
 **Apache Spark** is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
 
-## Latest Version: 3.5.1
+## Latest Version: 3.5.2
+- [Download 3.5.2](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.2/spark-3.5.2-bin-hadoop3.tgz)
 - [Download 3.5.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3.tgz)
 - [Download 3.4.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.4.3/spark-3.4.3-bin-hadoop3.tgz)
 - [Download 3.3.2](https://www.apache.org/dyn/closer.lua/spark/spark-3.3.2/spark-3.3.2-bin-hadoop3.tgz)
@@ -26,7 +27,7 @@
 8. Parameterized SQL Queries: A parameterized SQL query is a query that uses named parameters instead of literal values. This means that the values of the parameters are not hard-coded into the query, but are instead passed in at runtime. This makes the query more reusable because the same query can be used with different values for the parameters. It also makes the query more secure, because it prevents attackers from injecting malicious code into the query
 
 ## With Hadoop 3 & Scala 2.13
-- [Download Spark 3.5.1 with Hadoop3 and Scala 2.13](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3-scala2.13.tgz)
+- [Download Spark 3.5.2 with Hadoop3 and Scala 2.13](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.2/spark-3.5.2-bin-hadoop3-scala2.13.tgz)
 
 ## Create the Docker base file 
 Dockerfile
