@@ -8,7 +8,7 @@
 **Apache Spark** is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
 
 ##  Spark 4.0
-- [Download 4.1.X](https://www.apache.org/dyn/closer.lua/spark/spark-4.1.2/spark-4.1.2-bin-hadoop3.tgz)
+- [Download 4.1.2](https://www.apache.org/dyn/closer.lua/spark/spark-4.1.2/spark-4.1.2-bin-hadoop3.tgz)
 - **ANSI mode** enabled by default.
 - **Python data source** support added.
 - **Polymorphic Python UDTF** (User-Defined Table Function) introduced.
