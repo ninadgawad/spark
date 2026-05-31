@@ -7,8 +7,8 @@
 ## Spark Overview
 **Apache Spark** is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
 
-##  Preview release of Spark 4.0
-- https://spark.apache.org/news/spark-4.0.0-preview1.html
+##  Spark 4.0
+- [Download 4.1.X](https://www.apache.org/dyn/closer.lua/spark/spark-4.1.2/spark-4.1.2-bin-hadoop3.tgz)
 - **ANSI mode** enabled by default.
 - **Python data source** support added.
 - **Polymorphic Python UDTF** (User-Defined Table Function) introduced.
@@ -19,16 +19,12 @@
 - **Java 17** set as the default Java version.
 - Plus many other enhancements.
   
-## Latest Version: 3.5.3
-- [Download 3.5.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.3/spark-3.5.3-bin-hadoop3.tgz)
-  * [Release Notes](https://spark.apache.org/releases/spark-release-3-5-3.html)  
-- [Download 3.5.2](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.2/spark-3.5.2-bin-hadoop3.tgz)
-- [Download 3.5.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3.tgz)
+## Latest 3.5.X Version: 3.5.8
+- [Download 3.5.8](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.8/spark-3.5.8-bin-hadoop3.tgz)
 - [Download 3.4.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.4.3/spark-3.4.3-bin-hadoop3.tgz)
 - [Download 3.3.2](https://www.apache.org/dyn/closer.lua/spark/spark-3.3.2/spark-3.3.2-bin-hadoop3.tgz)
 - [Download 3.3.1](https://www.apache.org/dyn/closer.lua/spark/spark-3.3.1/spark-3.3.1-bin-hadoop3.tgz)
 - [Download 3.2.3](https://www.apache.org/dyn/closer.lua/spark/spark-3.2.1/spark-3.2.3-bin-hadoop3.2.tgz)
-- [Download 3.2.0](https://archive.apache.org/dist/spark/spark-3.2.0/spark-3.2.0-bin-hadoop2.7.tgz)
 
 ## New Features since 3.4.x 
 1. Spark Connect: Spark Connect is a new client-server architecture introduced in Apache Spark 3.4 which solves the problem by decoupling Spark client applications and allowing remote connectivity to Spark clusters.
